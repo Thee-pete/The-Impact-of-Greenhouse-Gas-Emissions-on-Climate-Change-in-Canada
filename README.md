@@ -1,4 +1,3 @@
-Introduction
 Project Overview
 
 Canada, known for its diverse ecosystems and encompassing all four seasons, has been facing the effects of climate change. Over the past few decades, temperature fluctuations have been more pronounced, disturbing ecological balances and altering weather patterns. “With four months left in 2023, the year is so far the second-hottest on record, only marginally behind 2016”[4].
